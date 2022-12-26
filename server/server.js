@@ -44,5 +44,4 @@ app.post('/', async (req, res) => {
     res.status(500).send(error || 'Something went wrong');
   }
 })
-
 app.listen(5000, () => console.log('AI server started on https://chatgpt-dz.onrender.com'));
