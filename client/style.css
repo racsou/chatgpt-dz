@@ -241,3 +241,6 @@ button, input, optgroup, select, textarea {
   margin: 0;
   padding: 0;
 }
+.dark .dark\:bg-white\/5 {
+  background-color: hsla(0,0%,100%,.05);
+}
