@@ -168,3 +168,13 @@ svg.h-6.w-6 {
 .flex {
   display: flex;
 }
+
+element.style {
+}
+@media (min-width: 768px)
+.md\:flex {
+    display: flex;
+}
+.text-center {
+    text-align: center;
+}
