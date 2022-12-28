@@ -156,3 +156,15 @@ svg.h-6.w-6 {
 .md\:flex-col {
     flex-direction: column;
 }
+.gap-3\.5 {
+  gap: 0.875rem;
+}
+.flex-col {
+  flex-direction: column;
+}
+.w-full {
+  width: 100%;
+}
+.flex {
+  display: flex;
+}
