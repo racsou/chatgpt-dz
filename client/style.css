@@ -153,29 +153,29 @@ form img {
   --tw-text-opacity: 1;
   color: rgba(236,236,241,var(--tw-text-opacity));
 }
-@media (min-width: 640px)
+@media (min-width: 640px);
 .sm\:max-w-md {
     max-width: 28rem;
 }
-@media (min-width: 1024px)
+@media (min-width: 1024px);
 .lg\:max-w-3xl {
     max-width: 48rem;
 }
-@media (min-width: 768px)
+@media (min-width: 768px);
 .md\:flex-col {
     flex-direction: column;
 }
-@media (min-width: 768px)
+@media (min-width: 768px);
 .md\:max-w-2xl {
     max-width: 42rem;
 }
 
-@media (min-width: 768px)
+@media (min-width: 768px);
 .md\:h-full {
     height: 100%;
 }
 
-@media (min-width: 768px)
+@media (min-width: 768px);
 .md\:flex {
     display: flex;
 }
